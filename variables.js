@@ -24,7 +24,7 @@ console.log(result5);
 
 // Perform multiplication of number * boolean
 let result6 = numberValue * booleanValue;
-console.log(result5);
+console.log(result6);
 
 // Divide string / boolean
 let result7 = stringValue / booleanValue;
